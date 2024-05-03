@@ -1,0 +1,6 @@
+{
+	"modid": "stackablefood",
+	"transformers": [
+		"b100.stackablefood.asm.Transformers"
+	]
+}
